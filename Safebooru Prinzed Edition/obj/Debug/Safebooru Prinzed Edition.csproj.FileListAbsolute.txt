@@ -1,0 +1,9 @@
+D:\Code\Safebooru Prinzed Edition\Safebooru Prinzed Edition\Safebooru Prinzed Edition\bin\Debug\Safebooru Prinzed Edition.exe.config
+D:\Code\Safebooru Prinzed Edition\Safebooru Prinzed Edition\Safebooru Prinzed Edition\bin\Debug\Safebooru Prinzed Edition.exe
+D:\Code\Safebooru Prinzed Edition\Safebooru Prinzed Edition\Safebooru Prinzed Edition\bin\Debug\Safebooru Prinzed Edition.pdb
+D:\Code\Safebooru Prinzed Edition\Safebooru Prinzed Edition\Safebooru Prinzed Edition\obj\Debug\Safebooru Prinzed Edition.csprojAssemblyReference.cache
+D:\Code\Safebooru Prinzed Edition\Safebooru Prinzed Edition\Safebooru Prinzed Edition\obj\Debug\Safebooru_Prinzed_Edition.Form1.resources
+D:\Code\Safebooru Prinzed Edition\Safebooru Prinzed Edition\Safebooru Prinzed Edition\obj\Debug\Safebooru_Prinzed_Edition.Properties.Resources.resources
+D:\Code\Safebooru Prinzed Edition\Safebooru Prinzed Edition\Safebooru Prinzed Edition\obj\Debug\Safebooru Prinzed Edition.csproj.GenerateResource.cache
+D:\Code\Safebooru Prinzed Edition\Safebooru Prinzed Edition\Safebooru Prinzed Edition\obj\Debug\Safebooru Prinzed Edition.exe
+D:\Code\Safebooru Prinzed Edition\Safebooru Prinzed Edition\Safebooru Prinzed Edition\obj\Debug\Safebooru Prinzed Edition.pdb
